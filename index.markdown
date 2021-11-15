@@ -25,4 +25,4 @@ Your browser does not support the video tag.
 <figcaption>Iterates of <em>EDIP pretrained on ellipses images</em> and non-pretrained DIP.</figcaption>
 </figure>
 
-A link to the supplementary material will be added after final decisions are announced by the CVPR2022 conference.
+See also the <a href="{{ site.baseurl }}/supp/">supplementary material</a>.
