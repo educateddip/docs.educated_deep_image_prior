@@ -7,7 +7,7 @@ layout: home
 # TODO add link to arxiv
 ---
 
-<!-- <a href="{{ site.github.repository_url }}" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>Code on GitHub</a> -->
+<a href="{{ site.github.repository_url }}" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>Code on GitHub</a>
 
 <figure>
 <video width="100%" controls>
@@ -25,4 +25,4 @@ Your browser does not support the video tag.
 <figcaption>Iterates of <em>EDIP pretrained on ellipses images</em> and non-pretrained DIP.</figcaption>
 </figure>
 
-Links to the code and supplementary material will be added after final decisions are announced by the CVPR2022 conference.
+A link to the supplementary material will be added after final decisions are announced by the CVPR2022 conference.
