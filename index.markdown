@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
-# TODO add link to arxiv
 ---
+
+<a href="https://arxiv.org/pdf/2111.11926.pdf" title="{{ social.github | escape }}"><svg class="svg-icon" style="fill-color:#828282"><image class="svg-icon" xlink:href="{{ '/assets/pdf17.svg' | relative_url }}"/></svg>Paper on arXiv</a>
 
 <a href="{{ site.github.repository_url }}" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>Code on GitHub</a>
 
@@ -25,4 +25,4 @@ Your browser does not support the video tag.
 <figcaption>Iterates of <em>EDIP pretrained on ellipses images</em> and non-pretrained DIP.</figcaption>
 </figure>
 
-See also the <a href="{{ site.baseurl }}/supp/">supplementary material</a>.
+Supplementary material including experimental results is available at [zenodo.org/record/5574586](https://zenodo.org/record/5574586).

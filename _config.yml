@@ -19,14 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Is Deep Image Prior in Need of a Good Education?"
-author: ""
-email: ""
+author: "Riccardo Barbano et al."
+email: "&#114;&#105;&#99;&#99;&#97;&#114;&#100;&#111;&#46;&#98;&#97;&#114;&#98;&#97;&#110;&#111;&#46;&#49;&#57;&#64;&#117;&#99;&#108;&#46;&#97;&#99;&#46;&#117;&#107;"
 description: >- # this means to ignore newlines until "baseurl:"
   Pretraining Deep Image Prior with synthetic data.
 baseurl: "/docs.educated_deep_image_prior" # the subpath of your site, e.g. /blog
 url: "https://educateddip.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github:
-  repository_url: https://github.com/educateddeepimageprior/edip
+  repository_url: https://github.com/educating-dip/educated_deep_image_prior
+github_username:  educating-dip
 
 # Build settings
 theme: minima

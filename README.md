@@ -1,3 +1,7 @@
 # Is Deep Image Prior in Need of a Good Education?
 
-Links to the code and supplementary material will be added after final decisisions are announced by the CVPR2022 conference.
+Code: https://github.com/educating-dip/educated_deep_image_prior/
+
+Project page: https://educateddip.github.io/docs.educated_deep_image_prior/
+
+Supplementary Material: https://zenodo.org/record/5574586 (includes experimental results)
