@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<a href="https://arxiv.org/pdf/2111.11926.pdf" title="{{ social.github | escape }}"><svg class="svg-icon" style="fill-color:#828282"><image class="svg-icon" xlink:href="{{ '/assets/pdf17.svg' | relative_url }}"/></svg>Paper on arXiv</a>
+<a href="https://arxiv.org/pdf/2111.11926.pdf" title="{{ social.github | escape }}"><svg class="svg-icon" style="fill-color:#828282"><image class="svg-icon" xlink:href="{{ '/assets/pdf17.svg' | relative_url }}"/></svg>Preprint on arXiv</a>
 
 <a href="{{ site.github.repository_url }}" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>Code on GitHub</a>
 
