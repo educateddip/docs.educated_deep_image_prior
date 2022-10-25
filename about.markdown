@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the project page supplementing the paper "Is Deep Image Prior in Need of a Good Education?".
+This is the project page supplementing the paper "An Educated Warm Start For Deep Image Prior-Based Micro CT Reconstruction".
 
 You can find the source code of the project at [github.com/educating-dip/educated_deep_image_prior](https://github.com/educating-dip/educated_deep_image_prior).
 
