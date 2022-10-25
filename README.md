@@ -1,6 +1,6 @@
 # Is Deep Image Prior in Need of a Good Education?
 
-Website supplementing the paper "An Educated Warm Start For Deep Image Prior-Based Micro CT Reconstruction".
+Website supplementing the paper ["An Educated Warm Start For Deep Image Prior-Based Micro CT Reconstruction"](https://arxiv.org/pdf/2111.11926.pdf).
 
 Code: https://github.com/educating-dip/educated_deep_image_prior/
 
